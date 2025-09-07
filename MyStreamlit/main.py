@@ -4,7 +4,7 @@ st.set_page_config(page_title="Juan Alvin Sebastian Sutanto - About Me", layout=
 
 # Header
 st.title("Juan Alvin Sebastian Sutanto")
-st.write("Final year Software Technology student passionate about software development and problem-solving.")
+st.write("ICT-Software Technology Graduate passionate about software development and problem-solving.")
 
 # Contact Information
 st.sidebar.header("Contact Information")
@@ -19,7 +19,7 @@ st.sidebar.write("""
 # About Me Section
 st.header("Summary")
 st.write("""
-Ambitious and detail-oriented final year Software Technology major student, with a strong foundation in programming 
+Ambitious and detail-oriented ICT-Software Technology Graduate, with a strong foundation in programming 
 languages such as PHP, JavaScript, Python, and C#. Experienced in developing software solutions through academic projects, 
 including websites, desktop applications, and mobile applications. Eager to apply problem-solving skills and technical knowledge in a real-world environment.
 """)
